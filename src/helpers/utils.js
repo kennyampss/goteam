@@ -84,24 +84,20 @@ export default {
 
       menu_bottom: [
         {
-          title: "Team Members",
-          data: 7,
-          icon: "mdi-account-multiple",
+          title: "Record",
+          icon: "mdi-record-circle",
         },
         {
-          title: "Discussion",
-          data: 3,
-          icon: "mdi-message-text",
+          title: "Screenshare",
+          icon: "mdi-monitor-share",
         },
         {
-          title: "Apps",
-          data: null,
-          icon: "mdi-database-check-outline",
+          title: "Control",
+          icon: "mdi-arrow-up-bold-circle",
         },
         {
-          title: "Gallery View",
-          data: null,
-          icon: "mdi-view-grid-outline",
+          title: "More",
+          icon: "mdi-dots-horizontal-circle",
         },
       ],
     }
